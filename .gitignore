@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+.swiftpm/
+LittleHero.swiftpm/
+LittleHero-Submission.zip
+DerivedData/
